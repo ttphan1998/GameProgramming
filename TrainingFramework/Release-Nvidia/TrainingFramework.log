@@ -1,0 +1,39 @@
+﻿  GSPlay.cpp
+C:\Users\phant\Desktop\shooting-2\TrainingFramework\src\Helper\ThreadPool.h(37,13): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::thread::id'
+C:\Users\phant\Desktop\shooting-2\Soloud\include\soloud.h(37,1): warning C4005:  'WIN32_LEAN_AND_MEAN': macro redefinition
+C:\Users\phant\Desktop\shooting-2\Include\AMD\EGL\eglplatform.h(67): message :  see previous definition of 'WIN32_LEAN_AND_MEAN'
+C:\Users\phant\Desktop\shooting-2\TrainingFramework\src\GameStates\GSPlay.cpp(40,86): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\shooting-2\TrainingFramework\src\GameStates\GSPlay.cpp(40,55): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\shooting-2\TrainingFramework\src\GameStates\GSPlay.cpp(46,82): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\shooting-2\TrainingFramework\src\GameStates\GSPlay.cpp(46,51): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\shooting-2\TrainingFramework\src\GameStates\GSPlay.cpp(47,92): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\shooting-2\TrainingFramework\src\GameStates\GSPlay.cpp(47,61): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\shooting-2\TrainingFramework\src\GameStates\GSPlay.cpp(104,39): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\shooting-2\TrainingFramework\src\GameStates\GSPlay.cpp(104,36): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\shooting-2\TrainingFramework\src\GameStates\GSPlay.cpp(130,25): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\phant\Desktop\shooting-2\TrainingFramework\src\GameStates\GSPlay.cpp(134,26): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\phant\Desktop\shooting-2\TrainingFramework\src\GameStates\GSPlay.cpp(138,25): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\phant\Desktop\shooting-2\TrainingFramework\src\GameStates\GSPlay.cpp(257,10): warning C4244:  '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:             _Ty=double
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :  see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[8],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[8],TEXT_COLOR &&,double &&)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :             _Ty=Text
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :  see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[8],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[8],TEXT_COLOR &&,double &&)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :             _Ty=Text
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         ]
+C:\Users\phant\Desktop\shooting-2\TrainingFramework\src\GameStates\GSPlay.cpp(53): message :  see reference to function template instantiation 'std::shared_ptr<Text> std::make_shared<Text,std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[8],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[8],TEXT_COLOR &&,double &&)' being compiled
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  634 of 1861 functions (34.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    240 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TrainingFramework.vcxproj -> C:\Users\phant\Desktop\shooting-2\\BIN-Nvidia\TrainingFramework.exe

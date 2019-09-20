@@ -1,0 +1,228 @@
+﻿  cl : Command line warning D9035 : option 'Gm' has been deprecated and will be removed in a future release
+  TrainingFramework.cpp
+  GSVictory.cpp
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\Helper\ThreadPool.h(37,13): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::thread::id'
+C:\Users\phant\Desktop\DragonTreasure-master\Soloud\include\soloud.h(37,1): warning C4005:  'WIN32_LEAN_AND_MEAN': macro redefinition
+C:\Users\phant\Desktop\DragonTreasure-master\Include\AMD\EGL\eglplatform.h(67): message :  see previous definition of 'WIN32_LEAN_AND_MEAN'
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSVictory.cpp(22,80): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  GSSetting.cpp
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSVictory.cpp(22,49): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\Helper\ThreadPool.h(37,13): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::thread::id'
+C:\Users\phant\Desktop\DragonTreasure-master\Soloud\include\soloud.h(37,1): warning C4005:  'WIN32_LEAN_AND_MEAN': macro redefinition
+C:\Users\phant\Desktop\DragonTreasure-master\Include\AMD\EGL\eglplatform.h(67): message :  see previous definition of 'WIN32_LEAN_AND_MEAN'
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSSetting.cpp(32,86): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSSetting.cpp(32,55): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSSetting.cpp(39,49): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSSetting.cpp(52,67): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:             _Ty=double
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :  see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[8],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[8],TEXT_COLOR &&,double &&)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :             _Ty=Text
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :  see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[8],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[8],TEXT_COLOR &&,double &&)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :             _Ty=Text
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         ]
+  GSPlay.cpp
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSSetting.cpp(51): message :  see reference to function template instantiation 'std::shared_ptr<Text> std::make_shared<Text,std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[8],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[8],TEXT_COLOR &&,double &&)' being compiled
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\Helper\ThreadPool.h(37,13): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::thread::id'
+C:\Users\phant\Desktop\DragonTreasure-master\Soloud\include\soloud.h(37,1): warning C4005:  'WIN32_LEAN_AND_MEAN': macro redefinition
+C:\Users\phant\Desktop\DragonTreasure-master\Include\AMD\EGL\eglplatform.h(67): message :  see previous definition of 'WIN32_LEAN_AND_MEAN'
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSPlay.cpp(24,23): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSPlay.cpp(25,27): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSPlay.cpp(45,86): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSPlay.cpp(45,55): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSPlay.cpp(51,82): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSPlay.cpp(51,51): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSPlay.cpp(52,92): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSPlay.cpp(52,61): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSPlay.cpp(111,39): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSPlay.cpp(111,36): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSPlay.cpp(134,24): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSPlay.cpp(323,35): warning C4244:  '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSPlay.cpp(347,10): warning C4244:  '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:             _Ty=double
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :  see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[8],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[8],TEXT_COLOR &&,double &&)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :             _Ty=Text
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :  see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[8],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[8],TEXT_COLOR &&,double &&)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :             _Ty=Text
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         ]
+  GSMenu.cpp
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSPlay.cpp(58): message :  see reference to function template instantiation 'std::shared_ptr<Text> std::make_shared<Text,std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[8],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[8],TEXT_COLOR &&,double &&)' being compiled
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\Helper\ThreadPool.h(37,13): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::thread::id'
+C:\Users\phant\Desktop\DragonTreasure-master\Soloud\include\soloud.h(37,1): warning C4005:  'WIN32_LEAN_AND_MEAN': macro redefinition
+C:\Users\phant\Desktop\DragonTreasure-master\Include\AMD\EGL\eglplatform.h(67): message :  see previous definition of 'WIN32_LEAN_AND_MEAN'
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSMenu.cpp(23,86): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSMenu.cpp(23,55): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSMenu.cpp(31,49): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSMenu.cpp(43,49): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSMenu.cpp(54,49): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSMenu.cpp(65,49): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSMenu.cpp(77,70): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:             _Ty=double
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :  see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[16],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[16],TEXT_COLOR &&,double &&)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :             _Ty=Text
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :  see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[16],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[16],TEXT_COLOR &&,double &&)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :             _Ty=Text
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         ]
+  GSIntro.cpp
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSMenu.cpp(76): message :  see reference to function template instantiation 'std::shared_ptr<Text> std::make_shared<Text,std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[16],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[16],TEXT_COLOR &&,double &&)' being compiled
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\Helper\ThreadPool.h(37,13): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::thread::id'
+C:\Users\phant\Desktop\DragonTreasure-master\Soloud\include\soloud.h(37,1): warning C4005:  'WIN32_LEAN_AND_MEAN': macro redefinition
+C:\Users\phant\Desktop\DragonTreasure-master\Include\AMD\EGL\eglplatform.h(67): message :  see previous definition of 'WIN32_LEAN_AND_MEAN'
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSIntro.cpp(22,80): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  GSGameOver.cpp
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSIntro.cpp(22,49): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\Helper\ThreadPool.h(37,13): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::thread::id'
+C:\Users\phant\Desktop\DragonTreasure-master\Soloud\include\soloud.h(37,1): warning C4005:  'WIN32_LEAN_AND_MEAN': macro redefinition
+C:\Users\phant\Desktop\DragonTreasure-master\Include\AMD\EGL\eglplatform.h(67): message :  see previous definition of 'WIN32_LEAN_AND_MEAN'
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSGameOver.cpp(22,80): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  GSCredit.cpp
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSGameOver.cpp(22,49): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\Helper\ThreadPool.h(37,13): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::thread::id'
+C:\Users\phant\Desktop\DragonTreasure-master\Soloud\include\soloud.h(37,1): warning C4005:  'WIN32_LEAN_AND_MEAN': macro redefinition
+C:\Users\phant\Desktop\DragonTreasure-master\Include\AMD\EGL\eglplatform.h(67): message :  see previous definition of 'WIN32_LEAN_AND_MEAN'
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSCredit.cpp(32,86): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSCredit.cpp(32,55): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSCredit.cpp(39,48): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSCredit.cpp(52,66): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSCredit.cpp(55,63): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:  'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:             _Ty=double
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1555,71): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :  see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[7],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[7],TEXT_COLOR &&,double &&)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :             _Ty=Text
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :  see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[7],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[7],TEXT_COLOR &&,double &&)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :             _Ty=Text
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\memory(1608): message :         ]
+  GameStateMachine.cpp
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameStates\GSCredit.cpp(51): message :  see reference to function template instantiation 'std::shared_ptr<Text> std::make_shared<Text,std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[7],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[7],TEXT_COLOR &&,double &&)' being compiled
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\Helper\ThreadPool.h(37,13): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::thread::id'
+C:\Users\phant\Desktop\DragonTreasure-master\Soloud\include\soloud.h(37,1): warning C4005:  'WIN32_LEAN_AND_MEAN': macro redefinition
+  GameStatebase.cpp
+C:\Users\phant\Desktop\DragonTreasure-master\Include\AMD\EGL\eglplatform.h(67): message :  see previous definition of 'WIN32_LEAN_AND_MEAN'
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\Helper\ThreadPool.h(37,13): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::thread::id'
+C:\Users\phant\Desktop\DragonTreasure-master\Soloud\include\soloud.h(37,1): warning C4005:  'WIN32_LEAN_AND_MEAN': macro redefinition
+  Texture.cpp
+C:\Users\phant\Desktop\DragonTreasure-master\Include\AMD\EGL\eglplatform.h(67): message :  see previous definition of 'WIN32_LEAN_AND_MEAN'
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Texture.cpp(26,29): warning C4244:  'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+  Text.cpp
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Texture.cpp(26,26): warning C4244:  'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Text.cpp(22,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Text.cpp(23,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Text.cpp(169,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Text.cpp(170,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Text.cpp(180,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+  SpriteSheet.cpp
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Text.cpp(181,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\SpriteSheet.cpp(41,33): warning C4244:  '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\SpriteSheet.cpp(42,33): warning C4244:  '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\SpriteSheet.cpp(118,24): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\SpriteSheet.cpp(118,16): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\SpriteSheet.cpp(173,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\SpriteSheet.cpp(174,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\SpriteSheet.cpp(184,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\SpriteSheet.cpp(185,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\SpriteSheet.cpp(199,15): warning C4244:  '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+  Shaders.cpp
+  Models.cpp
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\SpriteSheet.cpp(200,15): warning C4244:  '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Models.cpp(25,18): warning C4244:  'initializing': conversion from 'std::streamoff' to 'size_t', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Models.cpp(35,1): warning C4996:  'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message :  see declaration of 'sscanf'
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Models.cpp(40,1): warning C4996:  'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message :  see declaration of 'sscanf'
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Models.cpp(62,1): warning C4996:  'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message :  see declaration of 'sscanf'
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Models.cpp(68,1): warning C4996:  'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Sprite3D.cpp
+  Camera.cpp
+  Sprite2D.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message :  see declaration of 'sscanf'
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Sprite2D.cpp(146,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Sprite2D.cpp(147,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Sprite2D.cpp(157,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Sprite2D.cpp(158,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Sprite2D.cpp(172,15): warning C4244:  '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+  Player.cpp
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Sprite2D.cpp(173,15): warning C4244:  '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\Helper\ThreadPool.h(37,13): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::thread::id'
+C:\Users\phant\Desktop\DragonTreasure-master\Soloud\include\soloud.h(37,1): warning C4005:  'WIN32_LEAN_AND_MEAN': macro redefinition
+C:\Users\phant\Desktop\DragonTreasure-master\Include\AMD\EGL\eglplatform.h(67): message :  see previous definition of 'WIN32_LEAN_AND_MEAN'
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Player.cpp(8,21): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Player.cpp(185,34): warning C4244:  '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Player.cpp(195,34): warning C4244:  '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Player.cpp(207,34): warning C4244:  '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Player.cpp(219,38): warning C4244:  '-=': conversion from 'float' to 'int', possible loss of data
+  GameButton.cpp
+  Generating Code...
+  Compiling...
+  Font.cpp
+  ExplosiveEffect.cpp
+  Enermy.cpp
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Player.cpp(231,39): warning C4244:  '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\Helper\ThreadPool.h(37,13): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::thread::id'
+C:\Users\phant\Desktop\DragonTreasure-master\Soloud\include\soloud.h(37,1): warning C4005:  'WIN32_LEAN_AND_MEAN': macro redefinition
+C:\Users\phant\Desktop\DragonTreasure-master\Include\AMD\EGL\eglplatform.h(67): message :  see previous definition of 'WIN32_LEAN_AND_MEAN'
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Enermy.cpp(9,21): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Enermy.cpp(99,34): warning C4244:  '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Enermy.cpp(118,34): warning C4244:  '-=': conversion from 'float' to 'int', possible loss of data
+  BulletRight.cpp
+  BulletLeft.cpp
+  Bullet.cpp
+  Boss.cpp
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Enermy.cpp(137,34): warning C4244:  '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\Helper\ThreadPool.h(37,13): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::thread::id'
+C:\Users\phant\Desktop\DragonTreasure-master\Soloud\include\soloud.h(37,1): warning C4005:  'WIN32_LEAN_AND_MEAN': macro redefinition
+C:\Users\phant\Desktop\DragonTreasure-master\Include\AMD\EGL\eglplatform.h(67): message :  see previous definition of 'WIN32_LEAN_AND_MEAN'
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Boss.cpp(9,21): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Boss.cpp(33,19): warning C4552:  '+': result of expression not used
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Boss.cpp(157,34): warning C4244:  '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Boss.cpp(176,34): warning C4244:  '-=': conversion from 'float' to 'int', possible loss of data
+  SoundManager.cpp
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\GameObject\Boss.cpp(195,34): warning C4244:  '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\Helper\ThreadPool.h(37,13): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::thread::id'
+C:\Users\phant\Desktop\DragonTreasure-master\Soloud\include\soloud.h(37,1): warning C4005:  'WIN32_LEAN_AND_MEAN': macro redefinition
+  ResourceManagers.cpp
+C:\Users\phant\Desktop\DragonTreasure-master\Include\AMD\EGL\eglplatform.h(67): message :  see previous definition of 'WIN32_LEAN_AND_MEAN'
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\Helper\ThreadPool.h(37,13): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::thread::id'
+C:\Users\phant\Desktop\DragonTreasure-master\Soloud\include\soloud.h(37,1): warning C4005:  'WIN32_LEAN_AND_MEAN': macro redefinition
+  Application.cpp
+C:\Users\phant\Desktop\DragonTreasure-master\Include\AMD\EGL\eglplatform.h(67): message :  see previous definition of 'WIN32_LEAN_AND_MEAN'
+C:\Users\phant\Desktop\DragonTreasure-master\TrainingFramework\src\Helper\ThreadPool.h(37,13): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::thread::id'
+C:\Users\phant\Desktop\DragonTreasure-master\Soloud\include\soloud.h(37,1): warning C4005:  'WIN32_LEAN_AND_MEAN': macro redefinition
+  Generating Code...
+C:\Users\phant\Desktop\DragonTreasure-master\Include\AMD\EGL\eglplatform.h(67): message :  see previous definition of 'WIN32_LEAN_AND_MEAN'
+Application.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  TrainingFramework.vcxproj -> C:\Users\phant\Desktop\DragonTreasure-master\\BIN-Nvidia\TrainingFramework.exe
